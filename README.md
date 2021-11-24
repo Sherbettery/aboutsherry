@@ -1,7 +1,6 @@
-# About Sherry
 <html>
 <head>
-<title>aboutsherry</title>
+<title>About Sherry</title>
 </head>
 <body>
 <h1><p>彭彭老師及Bootcamp的各位大家好~我是<b>曼綾</b>，也可以叫我<b>Sherry</b>!<br>
